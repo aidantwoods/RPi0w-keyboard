@@ -1,0 +1,1 @@
+This is a collation of files neccesary to complete a project, I do not claim any rights to the files I have not myself written. Attributions to the source of each file are made on the first few lines of each.
